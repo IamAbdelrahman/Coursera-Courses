@@ -12,6 +12,8 @@ __________________________________________________________________
 | Week 4 | Advanced Functions, Recursion, Arrays, and Pointers |
 | Week 5 | Arrays and Pointers |
 | Week 6 | Final Exam |
+
+##_Grade Achieved: 96.26%_ 
 __________________________________________________________________
 ## _Course 2 : Structured Programming_
 | Week | Topic |
@@ -22,7 +24,6 @@ __________________________________________________________________
 | Week 4 | File I/O |
 | Week 5 | Intro to C++ |
 | Week 6 | Final Exam |
-##_Grade Achieved: 96.26%_ 
  __________________________________________________________________
  __________________________________________________________________
 # Embedded Systems
