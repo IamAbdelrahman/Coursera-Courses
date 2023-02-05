@@ -25,7 +25,6 @@ __________________________________________________________________
  __________________________________________________________________
  __________________________________________________________________
 # Embedded Systems
-## Introduction to Embedded Systems Software and Development Environments
 ### Instructor : Professor. Alex Fosdick
 ### University of Colorado Boulder
 __________________________________________________________________
