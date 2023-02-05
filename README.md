@@ -13,7 +13,7 @@ __________________________________________________________________
 | Week 5 | Arrays and Pointers |
 | Week 6 | Final Exam |
 
-##_Grade Achieved: 96.26%_ 
+## _Grade Achieved: 96.26%_ 
 __________________________________________________________________
 ## _Course 2 : Structured Programming_
 | Week | Topic |
